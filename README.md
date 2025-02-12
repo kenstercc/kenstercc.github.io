@@ -92,12 +92,12 @@ I actively contribute to open-source projects and maintain several repositories 
 
 ## 📈 Demo
  -  https://kenstercc.github.io/Bilmatic-demo   - Live demo of the limited feature of the Bilmatic app  
-    - feature available
+    - features available
        - Main Menu
        - Contract maintain for standard billing
-       - Calculator (what-if fee calculation
+       - Calculator (what-if fee calculation)
          
-  * for the purpose of the demo, use company01 as the Entity.  Sub-Entity and Account is not necessary. 
+  * for the purpose of the demo, use "company01" as the Entity.  Sub-Entity and Account is not necessary. 
 
 ## 📬 Contact
 
