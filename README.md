@@ -88,7 +88,10 @@ I actively contribute to open-source projects and maintain several repositories 
 
 - (https://github.com/kenstercc/Bilmatic) - (Bilmatic) An open source generic, rule and formula based billing application to support various billing needs for most businesses and industries. The billing engine will accommodate charging fees based on transactions and account asset value. The final product will provide billing for advisory management fees as well as interest calculation for margin and security lending. 
 - (https://github.com/kenstercc/Bilmatic_backend) - Part of the (Bilmatic) set of MySQL DB schema, database and all related APIs.
-- (https://github.com/kenstercc/Bilmatic_calculator) - The (Bilmatic) backend calculation process.  
+- (https://github.com/kenstercc/Bilmatic_calculator) - The (Bilmatic) backend calculation process.
+
+## 📈 Demo
+ -  https://kenstercc.github.io/Bilmatic-demo   - Live demo of the limited feature of the Bilmatic app  (e.g. 
 
 ## 📬 Contact
 
