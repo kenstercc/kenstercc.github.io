@@ -96,7 +96,8 @@ I actively contribute to open-source projects and maintain several repositories 
        - Main Menu
        - Contract maintain for standard billing
        - Calculator (what-if fee calculation
-      * for the purpose of the demo, use company01 as the Entity.  Sub-Entity and Account is not necessary. 
+         
+  * for the purpose of the demo, use company01 as the Entity.  Sub-Entity and Account is not necessary. 
 
 ## 📬 Contact
 
