@@ -91,7 +91,11 @@ I actively contribute to open-source projects and maintain several repositories 
 - (https://github.com/kenstercc/Bilmatic_calculator) - The (Bilmatic) backend calculation process.
 
 ## 📈 Demo
- -  https://kenstercc.github.io/Bilmatic-demo   - Live demo of the limited feature of the Bilmatic app  (e.g. 
+ -  https://kenstercc.github.io/Bilmatic-demo   - Live demo of the limited feature of the Bilmatic app  
+    - feature available
+       - Main Menu
+       - Contract maintain for standard billing
+       - Calculator (what-if fee calculation
 
 ## 📬 Contact
 
