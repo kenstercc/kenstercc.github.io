@@ -1,6 +1,6 @@
 # Ken Chin - Software Development Manager & System Architect
 
-Seasoned software development manager with a robust history in the finance brokerage industry.   Expert in large scale application development, technology platform transformation, enhancing billing systems and spread heading agile development. Excels in data warehousing and software architecture, levering skills in mainframe, distributed platforms and Agile methodologies.  Proven leadership in team development and stakeholder collaboration, ensuring project excellence.   Ability to support business divisional technology needs and work with Chief Executive levels.
+Seasoned software development manager with a robust history in the finance brokerage industry.   Expert in large scale application development, technology platform transformation, enhancing billing systems and spead heading agile development. Excels in data warehousing and software architecture, levering skills in mainframe, distributed platforms and Agile methodologies.  Proven leadership in team development and stakeholder collaboration, ensuring project excellence.   Ability to support business divisional technology needs and work with Chief Executive levels.
 
 ## 👨‍💻 About Me
 
@@ -22,7 +22,7 @@ I bring over 30+ years of experience in designing, developing, and managing comp
 Here are some of the key projects I have worked on or contributed to:
 
 ### 1. **Trade Support System**
-   - **Description**:  Responsible for the production support and enhancements (e.g. Institutional trade allocation, program trading etc) of a OTC trading system that supports the daily trading of OTC securities for Market Makers and Agency traders for a major brokerage house
+   - **Description**:  Responsible for the production support and enhancements (e.g. Institutional trade allocation, program trading, etc.) of an OTC trading system that supports the daily trading of OTC securities for Market Makers and Agency traders for a major brokerage house
    - **Technologies**: COBOL, VSAM, Mainframe, CICS
    - **Key Features**:
      - Real-time NASDAQ quotation
